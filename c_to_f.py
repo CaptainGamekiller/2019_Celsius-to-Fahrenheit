@@ -1,4 +1,4 @@
-c = input('請輸入攝氏溫度：')
+c = input('Please enter the temperature in Celsius: ')
 c = float(c)
 f = c * 9 / 5 + 32
-print('華氏溫度為：', f)
+print('The temperature in Fahrenheit is:', f)
